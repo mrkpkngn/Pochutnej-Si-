@@ -1,5 +1,7 @@
 @import "tailwindcss/base";
-
+html{
+  scroll-behavior: smooth;
+}
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
@@ -11,9 +13,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #EB8B2B;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face {
+  font-family: "Header";
+  src: url("./assets/fonts/IntroRust-Base.otf");
+}
+
+@font-face {
+  font-family: "Body";
+  src: url("./assets/fonts/Helvetica\ CE\ Medium.otf");
 }
