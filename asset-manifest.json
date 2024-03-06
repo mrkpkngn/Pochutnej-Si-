@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pochutnej-Si-/static/css/main.c43fe02f.css",
-    "main.js": "/Pochutnej-Si-/static/js/main.b257fb53.js",
+    "main.js": "/Pochutnej-Si-/static/js/main.bd5eae2b.js",
     "static/js/453.ef2a9dab.chunk.js": "/Pochutnej-Si-/static/js/453.ef2a9dab.chunk.js",
     "static/media/casopis.png": "/Pochutnej-Si-/static/media/casopis.e02aaefb6d67327d5bee.png",
     "static/media/facebook_bg.jpg": "/Pochutnej-Si-/static/media/facebook_bg.5a8260ec81300337d438.jpg",
@@ -14,11 +14,11 @@
     "static/media/pochuntejsi_logo.png": "/Pochutnej-Si-/static/media/pochuntejsi_logo.3243e5aa869c72e1086b.png",
     "index.html": "/Pochutnej-Si-/index.html",
     "main.c43fe02f.css.map": "/Pochutnej-Si-/static/css/main.c43fe02f.css.map",
-    "main.b257fb53.js.map": "/Pochutnej-Si-/static/js/main.b257fb53.js.map",
+    "main.bd5eae2b.js.map": "/Pochutnej-Si-/static/js/main.bd5eae2b.js.map",
     "453.ef2a9dab.chunk.js.map": "/Pochutnej-Si-/static/js/453.ef2a9dab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c43fe02f.css",
-    "static/js/main.b257fb53.js"
+    "static/js/main.bd5eae2b.js"
   ]
 }
