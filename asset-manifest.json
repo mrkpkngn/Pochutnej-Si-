@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pochutnej-Si-/static/css/main.91a9b5bc.css",
-    "main.js": "/Pochutnej-Si-/static/js/main.c34dd948.js",
+    "main.css": "/Pochutnej-Si-/static/css/main.c43fe02f.css",
+    "main.js": "/Pochutnej-Si-/static/js/main.b257fb53.js",
     "static/js/453.ef2a9dab.chunk.js": "/Pochutnej-Si-/static/js/453.ef2a9dab.chunk.js",
     "static/media/casopis.png": "/Pochutnej-Si-/static/media/casopis.e02aaefb6d67327d5bee.png",
     "static/media/facebook_bg.jpg": "/Pochutnej-Si-/static/media/facebook_bg.5a8260ec81300337d438.jpg",
@@ -13,12 +13,12 @@
     "static/media/Helvetica CE Medium.otf": "/Pochutnej-Si-/static/media/Helvetica CE Medium.ef757c0fbda534dac22b.otf",
     "static/media/pochuntejsi_logo.png": "/Pochutnej-Si-/static/media/pochuntejsi_logo.3243e5aa869c72e1086b.png",
     "index.html": "/Pochutnej-Si-/index.html",
-    "main.91a9b5bc.css.map": "/Pochutnej-Si-/static/css/main.91a9b5bc.css.map",
-    "main.c34dd948.js.map": "/Pochutnej-Si-/static/js/main.c34dd948.js.map",
+    "main.c43fe02f.css.map": "/Pochutnej-Si-/static/css/main.c43fe02f.css.map",
+    "main.b257fb53.js.map": "/Pochutnej-Si-/static/js/main.b257fb53.js.map",
     "453.ef2a9dab.chunk.js.map": "/Pochutnej-Si-/static/js/453.ef2a9dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91a9b5bc.css",
-    "static/js/main.c34dd948.js"
+    "static/css/main.c43fe02f.css",
+    "static/js/main.b257fb53.js"
   ]
 }
