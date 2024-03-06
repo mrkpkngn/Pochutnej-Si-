@@ -45,7 +45,7 @@ import Heroimg from '../assets/img/Hero.png'
         <a href='' className="bg-white p-3 md:p-4 md:text-lg text-orange text-sm rounded-md font-header flex flex-col text-center hover:text-white hover:bg-yellow hover:border-4" data-aos="fade-left" data-aos-duration="1000" data-aos-delay="500">
           NABÍDKA CATERINGU <span className="text-xs md:text-sm font-body">Užijte si oslavu či večírek bez starostí!</span>
         </a>    
-        <a href='https://www.pochutnejsi.cz/Darkovy-poukaz-BISTRO-500-d3123.htm' className="bg-white p-3 md:p-4 md:text-lg text-orange text-sm rounded-md font-header flex flex-col text-center hover:text-white hover:bg-yellow hover:border-4" data-aos="fade-right" data-aos-duration="1000">
+        <a href='https://www.pochutnejsi.cz/Darkovy-poukaz-BISTRO-500-d3123.htm' className="bg-white p-3 md:p-4 md:text-lg text-orange text-sm rounded-md font-header flex flex-col text-center hover:text-white hover:bg-yellow hover:border-4" data-aos="fade-right" data-aos-duration="1000" data-aos-delay="750">
           DÁRKOVÝ POUKAZ
         </a>          
       </div>
