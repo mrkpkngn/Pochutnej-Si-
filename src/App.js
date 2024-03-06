@@ -1,5 +1,5 @@
 import './App.css';
-import Navbar from './components/Navbar.jsx';
+import Navbar from './components/HomeNavbar.jsx';
 import HeroPage from './components/Hero.jsx';
 import Home1 from './components/Home1.jsx'
 import Home2 from './components/Home2.jsx'
