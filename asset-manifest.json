@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.52af9250.css",
-    "main.js": "/static/js/main.d0035d80.js",
+    "main.css": "/static/css/main.1712d954.css",
+    "main.js": "/static/js/main.96177cc0.js",
     "static/js/453.ef2a9dab.chunk.js": "/static/js/453.ef2a9dab.chunk.js",
     "static/media/casopis.png": "/static/media/casopis.e02aaefb6d67327d5bee.png",
     "static/media/facebook_bg.jpg": "/static/media/facebook_bg.5a8260ec81300337d438.jpg",
-    "static/media/Hero.png": "/static/media/Hero.01c88e0fe9680385650b.png",
+    "static/media/Hero.png": "/static/media/Hero.a3659098e77cd82e789e.png",
     "static/media/workhere.png": "/static/media/workhere.938b6ff4980a6b913c78.png",
     "static/media/aboutus.png": "/static/media/aboutus.ca23887b93ac8f2f7d99.png",
     "static/media/lukas.png": "/static/media/lukas.748e8c27604ad08e2ee2.png",
+    "static/media/II Vorkurs Medium.ttf": "/static/media/II Vorkurs Medium.619899f4d177fbc46309.ttf",
     "static/media/IntroRust-Base.otf": "/static/media/IntroRust-Base.2d749804509482b513c6.otf",
-    "static/media/Helvetica CE Medium.otf": "/static/media/Helvetica CE Medium.ef757c0fbda534dac22b.otf",
     "static/media/pochuntejsi_logo.png": "/static/media/pochuntejsi_logo.3243e5aa869c72e1086b.png",
     "index.html": "/index.html",
-    "main.52af9250.css.map": "/static/css/main.52af9250.css.map",
-    "main.d0035d80.js.map": "/static/js/main.d0035d80.js.map",
+    "main.1712d954.css.map": "/static/css/main.1712d954.css.map",
+    "main.96177cc0.js.map": "/static/js/main.96177cc0.js.map",
     "453.ef2a9dab.chunk.js.map": "/static/js/453.ef2a9dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52af9250.css",
-    "static/js/main.d0035d80.js"
+    "static/css/main.1712d954.css",
+    "static/js/main.96177cc0.js"
   ]
 }
