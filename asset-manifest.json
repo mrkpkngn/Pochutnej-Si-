@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Pochutnej-Si-/static/css/main.227612fe.css",
+    "main.js": "/Pochutnej-Si-/static/js/main.0d1adad2.js",
+    "static/js/453.ef2a9dab.chunk.js": "/Pochutnej-Si-/static/js/453.ef2a9dab.chunk.js",
+    "static/media/casopis.png": "/Pochutnej-Si-/static/media/casopis.e02aaefb6d67327d5bee.png",
+    "static/media/facebook_bg.jpg": "/Pochutnej-Si-/static/media/facebook_bg.5a8260ec81300337d438.jpg",
+    "static/media/Hero.png": "/Pochutnej-Si-/static/media/Hero.01c88e0fe9680385650b.png",
+    "static/media/workhere.png": "/Pochutnej-Si-/static/media/workhere.938b6ff4980a6b913c78.png",
+    "static/media/aboutus.png": "/Pochutnej-Si-/static/media/aboutus.ca23887b93ac8f2f7d99.png",
+    "static/media/lukas.png": "/Pochutnej-Si-/static/media/lukas.748e8c27604ad08e2ee2.png",
+    "static/media/IntroRust-Base.otf": "/Pochutnej-Si-/static/media/IntroRust-Base.2d749804509482b513c6.otf",
+    "static/media/Helvetica CE Medium.otf": "/Pochutnej-Si-/static/media/Helvetica CE Medium.ef757c0fbda534dac22b.otf",
+    "static/media/pochuntejsi_logo.png": "/Pochutnej-Si-/static/media/pochuntejsi_logo.3243e5aa869c72e1086b.png",
+    "index.html": "/Pochutnej-Si-/index.html",
+    "main.227612fe.css.map": "/Pochutnej-Si-/static/css/main.227612fe.css.map",
+    "main.0d1adad2.js.map": "/Pochutnej-Si-/static/js/main.0d1adad2.js.map",
+    "453.ef2a9dab.chunk.js.map": "/Pochutnej-Si-/static/js/453.ef2a9dab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.227612fe.css",
+    "static/js/main.0d1adad2.js"
+  ]
+}
