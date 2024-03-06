@@ -15,6 +15,7 @@ function App() {
     <div className="flex flex-col ">
       <Navbar />
       <FrostEffect />
+      <section id="#top"></section>
       <HeroPage />
       <Home1 />
       <Home2 />
