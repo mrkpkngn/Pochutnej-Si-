@@ -21,10 +21,10 @@ module.exports = {
       transparent: 'transparent',
       'black': '#18151a',
       'white': '#ffffff',
-      'orange': '#EB8B2B',
+      'orange': '#FCBA08',
       'gray': '#e2e8f0',
       'lightgray': '#94a3b8',
-      'yellow': '#FCBA08',
+      'yellow': '#EB8B2B',
     },
     backgroundImage: {
       'aboutusmobile' : "url('/src/assets/img/aboutus.png')",

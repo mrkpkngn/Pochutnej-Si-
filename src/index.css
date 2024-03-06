@@ -13,7 +13,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #EB8B2B;
+  background-color: #FCBA08;
 }
 
 code {
@@ -28,5 +28,5 @@ code {
 
 @font-face {
   font-family: "Body";
-  src: url("./assets/fonts/Helvetica\ CE\ Medium.otf");
+  src: url("./assets/fonts/II\ Vorkurs\ Medium.ttf");
 }
