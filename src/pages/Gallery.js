@@ -7,12 +7,14 @@ import { EffectCards} from "swiper/modules";
 import "./gallery.css"
 import Navbar from "../components/GalleryNavbar";
 import Navigation from "../components/navigation"
+import FrostEffect from "../components/FrostEffectSecond";
 
 function Gallery() {
 
   return (
     <div>
         <Navbar />
+        <FrostEffect />
         <div className="flex flex-col items-center justify-center py-24 gap-6">
             <h1 className="text-4xl font-header text-white md:7xl">Gallery</h1>
             
