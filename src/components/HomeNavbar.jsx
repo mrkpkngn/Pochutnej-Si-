@@ -34,7 +34,7 @@ const Navbar = () => {
         <li className={`p-4 font-bold rounded-lg ${header ? "hover:bg-white/40 hover:text-white" : " hover:bg-yellow hover:text-white"}`}>Menu</li>
         <li className={`p-4 font-bold rounded-lg ${header ? "hover:bg-white/40 hover:text-white" : " hover:bg-yellow hover:text-white"}`}>Galerie</li>
         <li className={`p-4 font-bold rounded-lg ${header ? "hover:bg-white/40 hover:text-white" : " hover:bg-yellow hover:text-white"}`}>Kontakt</li>
-        <a href="https://pochutnej-si.choiceqr.com/booking"><li className={`p-4 font-bold rounded-lg ${header ? "hover:bg-white/40 hover:text-white" : " hover:bg-yellow hover:text-white"}`}>Reservace</li></a>
+        <a href="https://pochutnej-si.choiceqr.com/booking"><li className={`p-4 font-bold rounded-lg ${header ? "hover:bg-white/40 hover:text-white" : " hover:bg-yellow hover:text-white"}`}>Rezervace</li></a>
       </ul>
       <div onClick={handleNav} className='block lg:hidden'>
           {nav ? <AiOutlineClose size={20}/> : <AiOutlineMenu size={20} />}
@@ -45,7 +45,7 @@ const Navbar = () => {
           <li className='p-4 border-b border-gray text-black hover:bg-yellow hover:text-white'>Menu</li>
           <li className='p-4 border-b border-gray text-black hover:bg-yellow hover:text-white'>Galerie</li>
           <li className='p-4 border-b border-gray text-black hover:bg-yellow hover:text-white'>Kontakt</li>
-          <a href="https://pochutnej-si.choiceqr.com/booking"><li className='p-4 text-black hover:bg-yellow hover:text-white'>Reservace</li></a>
+          <a href="https://pochutnej-si.choiceqr.com/booking"><li className='p-4 text-black hover:bg-yellow hover:text-white'>Rezervace</li></a>
       </ul>
     </div>
   );
