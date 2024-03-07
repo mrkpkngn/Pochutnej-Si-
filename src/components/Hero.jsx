@@ -29,7 +29,7 @@ import { FaChevronDown } from "react-icons/fa";
         <div className="flex flex-col justify-center items-center z-10 py-20"> 
         <div className="block h-fit z-10"><img src={Heroimg} alt="Hero Image" className="pt-5 pb-0 md:w-[35rem] z-10"></img></div>
 
-        <FaChevronDown className="text-white text-3xl mb-16 xs:m-28 animate-bounce lg:m-0"/>
+        <FaChevronDown className="text-white text-3xl m-3 animate-bounce"/>
 
           <a href='https://pochutnej-si.choiceqr.com/takeaway' className={`font-header xl:text-2xl card1 hover:border-2 z-0 hidden text-center p-5 hover:text-white text-orange hover:bg-yellow bg-white rounded-xl absolute lg:flex flex-col ${header ? "translate-x-0 lg:translate-y-0 ease-in-out duration-500" : "xl:translate-x-[29rem] lg:translate-x-[22rem] lg:translate-y-[-3rem] ease-in-out duration-500"}`}>OBĚD S SEBOU
           <p className=" font-body text-sm lg:text-xs ">PONDĚLÍ AŽ PÁTEK OD 11 DO 14 HODIN</p></a>
