@@ -80,3 +80,23 @@ background-image: url("../assets/img/Catering_Gallery/2.jpeg");
     background-image: url("../assets/img/Catering_Gallery/11.jpeg");
     background-size: cover;
 }
+
+.idk .swiper-slide:nth-child(1n) {
+  background-image: url("../assets/img/Catering_Gallery/2.1.jpg");
+  background-size: cover;
+}
+
+.idk .swiper-slide:nth-child(2n) {
+  background-image: url("../assets/img/Catering_Gallery/2.2.jpg");
+  background-size: cover;
+}
+
+.idk .swiper-slide:nth-child(3n) {
+  background-image: url("../assets/img/Catering_Gallery/2.3.jpg");
+  background-size: cover;
+}
+
+.idk .swiper-slide:nth-child(4n) {
+  background-image: url("../assets/img/Catering_Gallery/2.4.jpg");
+  background-size: cover;
+}
