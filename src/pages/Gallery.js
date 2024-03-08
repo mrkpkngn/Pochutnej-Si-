@@ -38,7 +38,7 @@ function Gallery() {
 
             <div className="p-10 pb-24 flex flex-col items-center gap-6 w-screen bg-yellow">
             <h2 className="font-body font-bold text-white text-3xl text-center md:text-5xl">Cateringy - Svatby - Oslavy - Vecírky</h2>
-            <Swiper effect={"cards"} modules={[EffectCards]} className="idk h-[320px] w-[240px] md:h-[480px] md:w-[360px]" nRealIndexChange={(swiper) => {swiper.allowTouchMove = false;swiper.unsetGrabCursor();}} onTouchEnd={(swiper) => {swiper.allowTouchMove = true;}}>
+            <Swiper effect={"cards"} modules={[EffectCards]} className="idk h-[320px] w-[240px] md:h-[480px] md:w-[360px]" onRealIndexChange={(swiper) => {swiper.allowTouchMove = false; swiper.unsetGrabCursor();}} onTouchEnd={(swiper) => {swiper.allowTouchMove = true;}}>
                 <SwiperSlide className="rounded-3xl"></SwiperSlide>
                 <SwiperSlide className="rounded-3xl"></SwiperSlide>
                 <SwiperSlide className="rounded-3xl"></SwiperSlide>
