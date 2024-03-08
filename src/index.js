@@ -8,6 +8,7 @@ import './index.css';
 import App from './App';
 import Root from './App'
 import Gallery from './pages/Gallery'
+import Catering from './pages/Catering'
 import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter([
@@ -18,6 +19,10 @@ const router = createBrowserRouter([
   {
     path: "/gallery",
     element: <Gallery />,
+  },
+  {
+    path: "/cateringu",
+    element: <Catering />,
   },
 ]);
 

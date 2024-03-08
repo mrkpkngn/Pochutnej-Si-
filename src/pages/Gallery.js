@@ -8,6 +8,7 @@ import "./gallery.css"
 import Navbar from "../components/GalleryNavbar";
 import Navigation from "../components/navigation"
 import FrostEffect from "../components/FrostEffectSecond";
+import Footer from "../components/Footer";
 
 function Gallery() {
 
@@ -47,6 +48,7 @@ function Gallery() {
             </Swiper>
             </div>
         </div>
+        <Footer />
     </div>
   );
 }
