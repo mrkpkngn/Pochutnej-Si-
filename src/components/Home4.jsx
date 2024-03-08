@@ -25,7 +25,7 @@ function Home4() {
           </div>
         </div>
         <div className="flex flex-col items-center">
-        <div className="pb-16 text-center">
+        <div className="pb-16 text-center flex flex-col">
           <span className="font-body font-extrabold md:text-4xl pb-3 md:pb-6 text-center">Časopis F.O.O.D. (vydání Leden 2019)</span>
           <img src={casopis}></img>
         </div>
