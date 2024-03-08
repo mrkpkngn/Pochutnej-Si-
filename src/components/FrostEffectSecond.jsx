@@ -27,7 +27,7 @@ const FrostEffect = () => {
     })
 
   return (
-    <div className={`flex justify-between items-center mt-6 h-11 lg:h-12 xl:h-14 max-w-[1400px] mx-auto px-4 rounded-2xl fixed right-0 left-0 lg:w-[75%] xl:w-[60%] w-[70%] bg-transparent backdrop-blur-md shadow-md text-white lg:ease-in-out duration-500}`}>
+    <div className={`flex justify-between items-center mt-6 h-11 lg:h-12 xl:h-14 max-w-[1400px] mx-auto px-4 rounded-2xl fixed right-0 left-0 lg:w-[75%] xl:w-[60%] w-[70%] backdrop-blur-md shadow-md text-white lg:ease-in-out duration-500} z-10`}>
     </div>
   );
 };
