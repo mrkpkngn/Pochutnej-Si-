@@ -17,19 +17,10 @@
     0%{
         background-image:url("../assets/img/bg_1.jpg");
     }
-    25%{
-        background-image:url("../assets/img/bg_1.jpg");
-    }
-    35%{
+    50%{
         background-image:url("../assets/img/bg_2.jpg");
     }
-    65%{
-        background-image:url("../assets/img/bg_2.jpg");
-    }
-    70%{
-        background-image:url("../assets/img/bg_3.jpg");
-    }
-    95%{
+    100%{
         background-image:url("../assets/img/bg_3.jpg");
     }
 
