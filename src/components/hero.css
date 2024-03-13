@@ -1,0 +1,36 @@
+.hero {
+    background-image: url("../assets/img/bg_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+    animation-name:animate;
+    animation-direction:alternate-reverse ;
+    animation-duration:15s ;
+    animation-fill-mode:forwards ;
+    animation-iteration-count:infinite;
+    animation-play-state:running ;
+    animation-timing-function:ease-in-out;
+}
+
+@keyframes animate{
+    0%{
+        background-image:url("../assets/img/bg_1.jpg");
+    }
+    25%{
+        background-image:url("../assets/img/bg_1.jpg");
+    }
+    35%{
+        background-image:url("../assets/img/bg_2.jpg");
+    }
+    65%{
+        background-image:url("../assets/img/bg_2.jpg");
+    }
+    70%{
+        background-image:url("../assets/img/bg_3.jpg");
+    }
+    95%{
+        background-image:url("../assets/img/bg_3.jpg");
+    }
+
+}
